@@ -1,7 +1,5 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# EXEMPLO - Conteúdo modelo no GitHub
-
 ## Conteúdos a serem trabalhados nesse módulo:
 
 - Funções
